@@ -1,3 +1,4 @@
-Hi this is cooler than I thought
-voila!
+def multiply(x,y)
+return x*y
+
 
